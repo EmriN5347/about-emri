@@ -2,9 +2,9 @@
 
 EmriN5347@hstat.org
 
-School-[HSTAT](http://www.hstat.org/)
+## School-[HSTAT](http://www.hstat.org/)
 
-**Bio:** I am a 16 year old male.<br> I attend HSTAT and in their SEP program.<br>I have two sibilings.
+**Bio:** <br>I am a 16 year old male.<br> I attend HSTAT and in their SEP program.<br>I have two sibilings.
 
 Schedule 
 ======    
