@@ -1,25 +1,25 @@
-Emri Nesimi
+# Emri Nesimi
 
 EmriN5347@hstat.org
 
-School-HSTAT
+School-[HSTAT](http://www.hstat.org/)
 
-Bio: I am a 16 year old male. I attend HSTAT and in their SEP program. I have two sibilings.
+**Bio:** I am a 16 year old male.<br> I attend HSTAT and in their SEP program.<br>I have two sibilings.
 
-Schedule:
+Schedule 
+======    
+1. _SPANISH_
 
-PERIOD 1-SPANISH
+2. _SEP_
 
-PERIOD 2-SEP
+3. _APUSH_
 
-PERIOD 3-APUSH
+4. _APLANG_
 
-PERIOD 4-APLANG
+5. _GYM_
 
-PERIOD 5-GYM
+6. _ALGEBRA 2_
 
-PERIOD 6-ALGEBRA 2
+7. _LUNCH_
 
-PERIOD 7-LUNCH
-
-PERIOD 8-PHYSICS
+8. _PHYSICS_
